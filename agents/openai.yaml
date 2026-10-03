@@ -1,0 +1,13 @@
+interface:
+  display_name: 留学 Personal Statement 创作
+  short_description: 从真实素材与项目要求出发，构建有证据、有个人声音的留学申请PS与SOP
+  default_prompt: 使用 $write-study-abroad-ps，根据我的个人素材和目标项目要求，协助我构思、撰写并审核申请文书。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
